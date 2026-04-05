@@ -1,0 +1,4 @@
+theme = "dark-synthwave"
+
+[editor]
+line-number = "relative"
